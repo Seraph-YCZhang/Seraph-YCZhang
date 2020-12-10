@@ -1,4 +1,4 @@
-### Hi there 👋 A Full-stack Engineer
+### Hi there 👋 I am working as a Full-stack Engineer
 
 
 - 🔭 I’m currently working on React and Node.js
