@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on React and Node.js
-- 🌱 I’m currently learning GraphQL and Next.js
+- 🌱 I’m currently learning Golang, GraphQL and Next.js
 - 📫 How to reach me: yuchenseraph@gmail.com
 
 
