@@ -6,7 +6,7 @@
 - 📫 How to reach me: yuchenseraph@gmail.com
 
 
-[![Seraph-YCZhang's github stats](https://github-readme-stats.vercel.app/api?username=Seraph-YCZhang&count_private=true&theme=dracula)](https://github.com/Seraph-YCZhang/github-readme-stats)
+[![Seraph-YCZhang's github stats](https://github-readme-stats.vercel.app/api?username=Seraph-YCZhang&count_private=true&theme=dracula)](https://github.com/Seraph-YCZhang/Seraph-YCZhang)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph-YCZhang&theme=dracula)](https://github.com/Seraph-YCZhang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph-YCZhang&theme=dracula)](https://github.com/Seraph-YCZhang/Seraph-YCZhang)
 
