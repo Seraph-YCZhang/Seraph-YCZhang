@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React and Node.js
 - 🌱 I’m currently learning Golang, GraphQL and Next.js
-- 📫 How to reach me: yuchenseraph@gmail.com
+- 📫 How to reach me: zhang232@buffalo.edu
 - 🍔 Portfolio: https://findyuchen.netlify.app/
 
 ![](https://komarev.com/ghpvc/?username=Seraph-YCZhang)
