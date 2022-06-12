@@ -1,9 +1,7 @@
 ### Hi there 👋 I am working as a Full-stack Engineer
 
 
-- 🔭 I’m currently working on React and Node.js
-- 🌱 I’m currently learning Golang, GraphQL and Next.js
-- 📫 How to reach me: zhang232@buffalo.edu
+- 🔭 React and Node.js
 - 🍔 Portfolio: https://findyuchen.netlify.app/
 
 ![](https://komarev.com/ghpvc/?username=Seraph-YCZhang)
